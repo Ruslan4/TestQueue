@@ -1,0 +1,17 @@
+D:\EPAM\MyTestQueueOfT\UnitTestMyQueue\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\EPAM\MyTestQueueOfT\UnitTestMyQueue\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\EPAM\MyTestQueueOfT\UnitTestMyQueue\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\EPAM\MyTestQueueOfT\UnitTestMyQueue\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\EPAM\MyTestQueueOfT\UnitTestMyQueue\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\EPAM\MyTestQueueOfT\UnitTestMyQueue\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\EPAM\MyTestQueueOfT\UnitTestMyQueue\bin\Debug\UnitTestMyQueue.dll
+D:\EPAM\MyTestQueueOfT\UnitTestMyQueue\bin\Debug\UnitTestMyQueue.pdb
+D:\EPAM\MyTestQueueOfT\UnitTestMyQueue\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\EPAM\MyTestQueueOfT\UnitTestMyQueue\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\EPAM\MyTestQueueOfT\UnitTestMyQueue\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\EPAM\MyTestQueueOfT\UnitTestMyQueue\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\EPAM\MyTestQueueOfT\UnitTestMyQueue\obj\Debug\UnitTestMyQueue.csprojAssemblyReference.cache
+D:\EPAM\MyTestQueueOfT\UnitTestMyQueue\obj\Debug\UnitTestMyQueue.csproj.CoreCompileInputs.cache
+D:\EPAM\MyTestQueueOfT\UnitTestMyQueue\obj\Debug\UnitTestMyQueue.csproj.CopyComplete
+D:\EPAM\MyTestQueueOfT\UnitTestMyQueue\obj\Debug\UnitTestMyQueue.dll
+D:\EPAM\MyTestQueueOfT\UnitTestMyQueue\obj\Debug\UnitTestMyQueue.pdb

@@ -1,0 +1,6 @@
+D:\EPAM\MyTestQueueOfT\MyQueue\bin\Debug\MyQueue.dll
+D:\EPAM\MyTestQueueOfT\MyQueue\bin\Debug\MyQueue.pdb
+D:\EPAM\MyTestQueueOfT\MyQueue\obj\Debug\MyQueue.csproj.CoreCompileInputs.cache
+D:\EPAM\MyTestQueueOfT\MyQueue\obj\Debug\MyQueue.dll
+D:\EPAM\MyTestQueueOfT\MyQueue\obj\Debug\MyQueue.pdb
+D:\EPAM\MyTestQueueOfT\MyQueue\obj\Debug\MyQueue.csprojAssemblyReference.cache

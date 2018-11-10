@@ -1,0 +1,10 @@
+D:\EPAM\MyTestQueueOfT\MyTestQueueOfT\bin\Debug\MyTestQueueOfT.exe.config
+D:\EPAM\MyTestQueueOfT\MyTestQueueOfT\bin\Debug\MyTestQueueOfT.exe
+D:\EPAM\MyTestQueueOfT\MyTestQueueOfT\bin\Debug\MyTestQueueOfT.pdb
+D:\EPAM\MyTestQueueOfT\MyTestQueueOfT\obj\Debug\MyTestQueueOfT.csprojAssemblyReference.cache
+D:\EPAM\MyTestQueueOfT\MyTestQueueOfT\obj\Debug\MyTestQueueOfT.csproj.CoreCompileInputs.cache
+D:\EPAM\MyTestQueueOfT\MyTestQueueOfT\obj\Debug\MyTestQueueOfT.exe
+D:\EPAM\MyTestQueueOfT\MyTestQueueOfT\obj\Debug\MyTestQueueOfT.pdb
+D:\EPAM\MyTestQueueOfT\MyTestQueueOfT\bin\Debug\MyQueue.dll
+D:\EPAM\MyTestQueueOfT\MyTestQueueOfT\bin\Debug\MyQueue.pdb
+D:\EPAM\MyTestQueueOfT\MyTestQueueOfT\obj\Debug\MyTestQueueOfT.csproj.CopyComplete
