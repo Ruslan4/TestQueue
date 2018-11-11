@@ -1,0 +1,9 @@
+C:\Users\Ruslan\source\repos\DAL\DAL\bin\Debug\DAL.dll
+C:\Users\Ruslan\source\repos\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\Ruslan\source\repos\DAL\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ruslan\source\repos\DAL\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ruslan\source\repos\DAL\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Ruslan\source\repos\DAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\source\repos\DAL\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Ruslan\source\repos\DAL\DAL\obj\Debug\DAL.dll
+C:\Users\Ruslan\source\repos\DAL\DAL\obj\Debug\DAL.pdb

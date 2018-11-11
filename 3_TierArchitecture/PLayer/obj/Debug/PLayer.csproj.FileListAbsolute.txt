@@ -1,0 +1,14 @@
+C:\Users\Ruslan\source\repos\DAL\PLayer\bin\Debug\PLayer.exe.config
+C:\Users\Ruslan\source\repos\DAL\PLayer\bin\Debug\PLayer.exe
+C:\Users\Ruslan\source\repos\DAL\PLayer\bin\Debug\PLayer.pdb
+C:\Users\Ruslan\source\repos\DAL\PLayer\bin\Debug\DAL.dll
+C:\Users\Ruslan\source\repos\DAL\PLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ruslan\source\repos\DAL\PLayer\bin\Debug\DAL.pdb
+C:\Users\Ruslan\source\repos\DAL\PLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ruslan\source\repos\DAL\PLayer\obj\Debug\PLayer.csprojAssemblyReference.cache
+C:\Users\Ruslan\source\repos\DAL\PLayer\obj\Debug\PLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\source\repos\DAL\PLayer\obj\Debug\PLayer.csproj.CopyComplete
+C:\Users\Ruslan\source\repos\DAL\PLayer\obj\Debug\PLayer.exe
+C:\Users\Ruslan\source\repos\DAL\PLayer\obj\Debug\PLayer.pdb
+C:\Users\Ruslan\source\repos\DAL\PLayer\bin\Debug\BLL.dll
+C:\Users\Ruslan\source\repos\DAL\PLayer\bin\Debug\BLL.pdb
